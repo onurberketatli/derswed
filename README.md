@@ -1,0 +1,2 @@
+# derswed
+ders için
