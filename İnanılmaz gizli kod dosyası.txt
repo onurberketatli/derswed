@@ -1,1 +1,1 @@
-print uzay
+print enes
