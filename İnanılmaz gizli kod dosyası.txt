@@ -1,1 +1,1 @@
-print emir
+print kaan
